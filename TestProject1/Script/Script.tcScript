@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="AllTest">
+			<child name="RunAllTest" key="{A5E81C7A-C89D-4BF1-BB91-3B63D376F6FE}" path="RunAllTest.js" />
+		</folder>
+		<child name="StartCalc" key="{2AA17E2A-B339-4F88-811F-CAB09BFE88F7}" path="StartCalc.js" />
+		<child name="SumCalc" key="{B11BCFD5-F69B-49B5-ABB6-17601DFB9BC5}" path="SumCalc.js" />
+		<child name="CloseCalc" key="{CFBC6BB6-7369-4F68-9773-9F7643445568}" path="CloseCalc.js" />
+		<child name="Otladka" key="{7FF6089B-FB0E-42FB-9FFD-D8E71252ADDC}" path="Otladka.js" />
+	</children>
+</Root>
