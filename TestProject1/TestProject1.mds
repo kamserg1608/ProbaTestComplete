@@ -9,14 +9,9 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{C857B45A-5E97-4A08-85FC-038E4887E432}" version="14">
 		<children>
-			<testItem name="AllTestItem" key="{16D1AEF4-7E68-4DD7-9099-834A3861209F}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="ProjectTestItem1" key="{92327EF2-9A88-4A3A-A795-197F6D0FAAA1}" group="False" enabled="True" testMoniker="{A5E81C7A-C89D-4BF1-BB91-3B63D376F6FE}vseRun" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
-				<children>
-					<testItem name="startDispAndSMOPA" key="{92327EF2-9A88-4A3A-A795-197F6D0FAAA1}" group="False" enabled="True" testMoniker="{A5E81C7A-C89D-4BF1-BB91-3B63D376F6FE}vseRun" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
-						<testParameters />
-						<children />
-					</testItem>
-				</children>
+				<children />
 			</testItem>
 		</children>
 	</testItems>
